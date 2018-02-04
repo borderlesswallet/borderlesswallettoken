@@ -29,3 +29,6 @@ Our wallet is designed to hold and transfer money from crypto to non-crypto, and
 
 ### Borderless Wallet Token
 Token project to enable borderless wallet.
+
+#### Why a token
+Enable this project is hard, we have some challenges related to regulations, marketplace, infrastructure and R&D. Also, we desire to enable our wallet free from regular fees. Avoid money from the current bank system is important enabling something new without short term profit vision.
